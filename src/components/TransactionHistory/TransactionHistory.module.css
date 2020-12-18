@@ -18,7 +18,7 @@
   color: #646569;
 }
 
-.transactionHistory tbody:nth-child(2n + 1) {
+.transactionHistory tr:nth-child(even) {
   background-color: #ecf1f4;
 }
 
